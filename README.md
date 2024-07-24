@@ -53,9 +53,10 @@ pip install pandas numpy scikit-learn matplotlib
 
 ## 🛠️ Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/BasicStockPredictionModel.git
-cd BasicStockPredictionModel
-2. Create a virtual environment (optional but recommended):
+1. Clone the repository: git clone [https://github.com/fairoz-539/BasicStockPredictionModel/blob/main/BasicStockPredictionModel.py](https://github.com/fairoz-539/BasicStockPredictionModel/blob/main/BasicStockPredictionModel.py)
+2. Then Navigate to the file : 
+`cd BasicStockPredictionModel`
+3. Create a virtual environment (optional but recommended):
 `python -m venv venv`
 `source venv/bin/activate`
 # On Windows, use 
